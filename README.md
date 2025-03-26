@@ -3,6 +3,8 @@
 Classic Pac-Man game written in C++ for terminal.
 The game features classic arcade mechanics, where the player navigates a maze, collects pellets, and avoids ghosts.
 
+## Screenshots
+
 ![Welcome screen](screenshots/welcome_screen.png)
 ![Main menu](screenshots/main_menu.png)
 ![Help](screenshots/help.png)
